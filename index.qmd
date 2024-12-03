@@ -1,5 +1,5 @@
 ---
-title: "Finley Malloc"
+title: "Jose V. Die"
 about:
   template: trestles
   image: avatar.jpg
