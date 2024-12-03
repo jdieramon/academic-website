@@ -4,13 +4,13 @@ project:
 
 
 website:
-  title: "My website boo"
+  title: "Jose V. Die"
   description: "I am a scientist"
-  site-url: https://pakillo.github.io/academic-website-template-Quarto
-  repo-url: https://github.com/Pakillo/academic-website-template-Quarto
+  site-url: https://jdieramon.github.io/academic-website-template-Quarto
+  repo-url: https://github.com/jdieramon/academic-website-template-Quarto
   # favicon: logo.png
   twitter-card: true
-  #   creator: "@handle"
+  #   creator: "@jdieramon"
   #   site: "@handle"
   open-graph: true
   # google-analytics:
@@ -30,7 +30,7 @@ website:
       # - icon: mastodon
       #   href: https://joinmastodon.org
       # - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
-      #   href: https://bsky.app
+      #   href: https://bsky.app/profile/jdieramon.bsky.social
       # - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
       #   href: https://x.com
       # - icon: github
