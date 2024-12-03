@@ -29,7 +29,11 @@ about:
     #   href: https://github.com
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+I am a Ramón y Cajal Research Fellow, funded by the [Spanish Reseach State Agency](http://www.aei.gob.es/), and I work in the Department of Genetics at the University of Córdoba (Spain). My research focuses on unraveling the molecular basis controlling agronomic traits in agricultural crops. Understanding how individual genetic variants combine to confer adaptation in specific environments is fundamental to accelerating the introgression of new traits into adapted backgrounds. I integrate bioinformatics with experimentation and am an advocate for gene expression studies in compliance with [MIQE](http://clinchem.aaccjnls.org/content/55/4/611) guidelines. I am particularly passionate about working with Big Data, uncovering biological insights, and extracting value from complex datasets.
+
+
+
+Flowering time is a major domestication trait that defines the adaptation of chickpea to different agro-climatic conditions and is therefore a key determinant of its productivity.
 
 ## Education
 
@@ -41,6 +45,4 @@ B.A in Economics | Sept 2007 - June 2011
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+Previously, I worked in the research groups of **Dr Juan Gil** (University of Cordoba) as a **Marie Sklodowska-Curie Fellow** funded by the European Comission under the [Horizon2020](https://cordis.europa.eu/project/rcn/221706/factsheet/en) program, and **Dr Lisa J. Rowland** at the Genetic Improvement of Fruits and Vegetables Laboratory (2012-2017), [USDA-ARS](https://www.ars.usda.gov/northeast-area/beltsville-md-barc/beltsville-agricultural-research-center/genetic-improvement-for-fruits-vegetables-laboratory/) (Beltsville, MD, USA). During 2010-2012, I got a postdoctoral position funded by the Spanish Ministry of Science and Innovation through the program “Juan de la Cierva”.
